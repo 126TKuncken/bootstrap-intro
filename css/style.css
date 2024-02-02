@@ -1,0 +1,7 @@
+.container, .container-lg{
+    background-color: beige;
+}
+
+.col {
+    border: 1px solid bisque;
+}
